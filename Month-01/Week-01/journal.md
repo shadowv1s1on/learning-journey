@@ -42,3 +42,18 @@ open -a "Visual Studio Code" journal.md
 ## Questions of the day
 - How coding in terminal helps me to study Swift?
 - What other interesting things can i do at the terminal?
+
+## Date: 22 may 2026
+
+### What I make today
+- Watch "CS50 Lecture 0 (Scratch)
+- Conspect all lecture in my notebook and studied on my own some points (arrays, threads, abstruction) from the lecture
+- Make my first programm in Scratch (animation with actions and sounds)
+
+### What was difficult
+- I try to make a game like Tetris in Scratch. Unfortunately, now i dont have enough knowledges to do this  
+- Abstructions. For me, thats quite difficult to understand how it works. But I want to study this topic in more detail by my own
+
+### What i like
+- CS50 - its very interesting and exciting
+- Working in Scratch. I feel myself like Hideo Kodjima when i try to make Tetris
