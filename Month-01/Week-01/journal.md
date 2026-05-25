@@ -57,3 +57,20 @@ open -a "Visual Studio Code" journal.md
 ### What i like
 - CS50 - its very interesting and exciting
 - Working in Scratch. I feel myself like Hideo Kodjima when i try to make Tetris
+
+## Date: 25 may 2026
+
+### What I make today
+- Watch "CS50 Lecture 1 ("C")
+- Conspect all lecture and study some new points: compilation, interpretation, how compilator makes source code into object code
+- Study by my own what is data types, storage location, command-line arguments and abstructions
+- Make my first Swift-code!! 
+
+
+### What was difficult
+- It was difficult to understand how works C-code from CS50 Lecture 
+- Working with Fuctions and Cycles in my first code
+- Todays lecture was quite difficult
+
+### What i like
+- Im happy that today was first day when i try to write Swift-code!!
