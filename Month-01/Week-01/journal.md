@@ -74,3 +74,25 @@ open -a "Visual Studio Code" journal.md
 
 ### What i like
 - Im happy that today was first day when i try to write Swift-code!!
+
+## 25 may — Results of the day
+
+### What i did today
+- Make my first Swift-code (Variables, constants, data types, conditions, cycles, function, structure)
+- Ran it due to terminal
+- Watch CS50 Lecture 1 (C, compilation, memory storage)
+- Solve first task at the Exercism: Hello World
+- Make Tetris in Scratch (with working controls)
+
+### What was difficult
+- Exercism: i make a mistake with register in letter "W" in the word "World" 
+- Tetris: deleting a filled row doesnt work (i will figure it out tomorrow)
+
+### What i like
+- Solving task on Exercism: it was interesting, i wanna do more
+- Try on the role of a game designer by making Tetris in Scratch (though with the help of YouTube guides)
+
+### TO DO tomorrow
+- Fix the problem in My Tetris
+- Solve some tasks on Exercism
+- Watch CS50 Lecture 2
